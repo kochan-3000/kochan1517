@@ -1,0 +1,5 @@
+@charset"UTF-8";
+body{background-color: black}
+h1{font-size: 80pt;font-family: "HGS行書体";font-weight: bolder;color: white;background-color: orange}
+h2{font-size: 44pt;font-family: "ＭＳ Ｐゴシック 本文";font-weight: bolder;color: white}
+footer{background-color: aliceblue;text-align: center;font-size: 11pt}
